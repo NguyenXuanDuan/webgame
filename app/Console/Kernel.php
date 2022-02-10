@@ -16,7 +16,7 @@ class Kernel extends ConsoleKernel
         //
     ];
 
-    //update
+    //updateewq
     /**
      * Define the application's command schedule.
      *
